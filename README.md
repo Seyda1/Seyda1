@@ -5,4 +5,9 @@ I am working on computer vision projects in the field of deep learning. I am wor
 ### ***Connect With Me***
 
 <a href="https://medium.com/@seydaybar">
-<img src= "https://png.pngitem.com/pimgs/s/214-2148075_medium-new-logo-2017-hd-png-download.png"  width="70" height="70"></a>
+<img src= "https://png.pngitem.com/pimgs/s/214-2148075_medium-new-logo-2017-hd-png-download.png"  width="80" height="50"></a>
+
+<a href="[https://medium.com/@seydaybar](https://www.linkedin.com/in/seydaybar/)">
+<img src= "https://nedir.kim/wp-content/uploads/2020/02/LinkedIn-logo.jpg"  width="80" height="50"></a>
+
+
