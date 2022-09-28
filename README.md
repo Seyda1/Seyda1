@@ -5,4 +5,4 @@ I am working on computer vision projects in the field of deep learning. I am wor
 ### ***Connect With Me***
 
 <a href="https://medium.com/@seydaybar">
-<img src= "https://png.pngitem.com/pimgs/s/214-2148075_medium-new-logo-2017-hd-png-download.png"  ></a>
+<img src= "https://png.pngitem.com/pimgs/s/214-2148075_medium-new-logo-2017-hd-png-download.png"  width="70" height="70"></a>
