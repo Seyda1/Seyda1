@@ -1,7 +1,5 @@
 ### Hi there👋, I am Şeyda.
-klnlnjbnjkb
-<!--
-**Seyda1/Seyda1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 I am working on computer vision projects in the field of deep learning. I am working at [***Tractus Tecknology***(https://www.tractus.com.tr/en/)] as a data engineer. I am currently interested in cloud ML on AWS and MLOps.
 
 ##***Connect With Me***
