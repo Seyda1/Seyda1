@@ -1,5 +1,5 @@
 ### Hi there👋, I am Şeyda.
-I am working at [***Türib(Turkish Mercantile Exchange)***](https://www.tractus.com.tr/en/) as a Data Scientist. I am currently interested in Cloud and MLOps.
+I am working at [***Türib(Turkish Mercantile Exchange)***](https://www.turib.com.tr/en/) as a Data Scientist. I am currently interested in Cloud and MLOps.
 
 ### ***Connect With Me***
 
