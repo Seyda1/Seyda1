@@ -1,6 +1,5 @@
 ### Hi there👋, I am Şeyda.
-
-I am working on computer vision projects in the field of deep learning. I am working at [***Tractus Technology***](https://www.tractus.com.tr/en/) as a Computer Vision Engineer. I am currently interested in cloud ML on AWS and MLOps.
+I am working at [***Türib(Turkish Mercantile Exchange)***](https://www.tractus.com.tr/en/) as a Data Scientist. I am currently interested in Cloud and MLOps.
 
 ### ***Connect With Me***
 
