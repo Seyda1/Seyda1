@@ -8,5 +8,5 @@ I am a machine learning engineer.
 </a>
 
 <a href="https://www.linkedin.com/in/seydaybar/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="80" height="40" alt="LinkedIn">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="60" height="30" alt="LinkedIn">
 </a>
