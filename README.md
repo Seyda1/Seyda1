@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Şeyda.
-I am a machine learning engineer. 
+I am a machine learning engineer currently working at [**TMEX**](https://www.turib.com.tr/en/), Turkish Mercantile Exchange.
 
 ### About Me
 - 🚀 Passionate about **Machine Learning** and **Data Science**.
