@@ -1,12 +1,15 @@
 ### Hi there 👋, I am Şeyda.
 I am a machine learning engineer. 
 
-### ***Connect With Me***
+### About Me
+- 🚀 Passionate about **Machine Learning** and **Data Science**.
+- 📊 Experienced in building predictive models and working with large datasets.
+- 🌱 Currently exploring **Generative AI** and its applications in **finance**.
 
-<a href="https://medium.com/@seydaybar">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" width="80" height="40" alt="Medium">
-</a>
+### 📬 Let's Connect!
+- 📝 [Medium Blog](https://medium.com/@seydaybar)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/seydaybar/)
 
-<a href="https://www.linkedin.com/in/seydaybar/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="60" height="30" alt="LinkedIn">
-</a>
+### 📈 GitHub Stats
+![Şeyda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seydaybar&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seydaybar&layout=compact&theme=radical)
