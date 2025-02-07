@@ -10,3 +10,4 @@ I am a machine learning engineer currently working at [**TMEX**](https://www.tur
 - 📝 [Medium Blog](https://medium.com/@seydaybar)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/seydaybar/)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seyda1&show_icons=true&theme=dark)
