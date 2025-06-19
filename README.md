@@ -9,6 +9,6 @@ I am a Machine Learning Engineer currently working at [**TMEX**](https://www.tur
 ### 📬 Let's Connect!
 - 📝 [Medium Blog](https://medium.com/@seydaybar)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/seydaybar/)
-- 🐱 [Kaggle] (https://www.kaggle.com/eydaaybar)
+- 🐱 [Kaggle](https://www.kaggle.com/eydaaybar)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seyda1&show_icons=true&theme=dark)
