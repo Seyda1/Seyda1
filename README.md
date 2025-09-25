@@ -2,7 +2,7 @@
 I am a Machine Learning Engineer currently working at [**TMEX**](https://www.turib.com.tr/en/), Turkish Mercantile Exchange. I have professional experience in cloud computing (primarily AWS) and MLOps.
 
 ### About Me
-- 🚀 Passionate about **Machine Learning**, **Data Science** and **Cloud Technologies**.
+- 🚀 Passionate about **Computer Vision**, **Deep/Machine Learning**, **Data Science** and **Cloud Technologies**.
 - 📊 Experienced in building predictive models and working with large datasets.
 - 🌱 Currently exploring **Generative AI** and its applications in **finance**.
 
