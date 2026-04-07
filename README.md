@@ -1,10 +1,16 @@
-### Hi there 👋, I am Şeyda.
-I am a Machine Learning Engineer currently working at [**TMEX**](https://www.turib.com.tr/en/), Turkish Mercantile Exchange. I have professional experience in cloud computing (primarily AWS) and MLOps.
+Hi there 👋, I'm Şeyda  
 
-### About Me
-- 🚀 Passionate about **Computer Vision**, **Deep/Machine Learning**, **Data Science** and **Cloud Technologies(AWS)**.
-- 📊 Experienced in building predictive models and working with large datasets.
-- 🌱 Currently exploring **Generative AI** and its applications in **finance**.
+Machine Learning Engineer
+
+I work on building scalable data pipelines, developing  models, and turning data into actionable insights — especially in financial domains.
+
+---
+
+### ✍️ Let's Connect
+
+- 🔗 Medium:[ https://medium.com/@seydaybar  ](https://medium.com/@seydaybar)
+- 💼 LinkedIn: (https://www.linkedin.com/in/seydaybar/) 
+- 🧠 Kaggle: (https://www.kaggle.com/eydaaybar)
 
 ### 📬 Let's Connect!
 - 📝 [Medium Blog](https://medium.com/@seydaybar)  
