@@ -4,6 +4,7 @@ Machine Learning Engineer | AWS & MLOps
 
 I love working with data, developing models, participating in competitions, building pipelines, and turning complex data into actionable insights and products. 
 Currently, I work at Turkish Mercantile Exchange (TMX), leveraging data to extract insights, build models, and turn complex market information into actionable products.
+
 ---
 
 
