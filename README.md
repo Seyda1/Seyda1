@@ -2,7 +2,7 @@ Hi there 👋, I'm Şeyda
 
 Machine Learning Engineer | AWS & MLOps
 
-I work on building scalable data pipelines, developing models, and turning data into actionable insights — especially in financial domains.
+I work on building scalable data pipelines, developing models, and turning data into actionable insights especially in financial domains.
 
 ---
 
