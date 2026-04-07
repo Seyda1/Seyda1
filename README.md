@@ -2,8 +2,8 @@ Hi there 👋, I'm Şeyda
 
 Machine Learning Engineer | AWS & MLOps
 
-I work on building scalable data pipelines, developing models, and turning data into actionable insights especially in financial domains.
-
+I love working with data, developing models, participating in competitions, building pipelines, and turning complex data into actionable insights and products. 
+Currently, I work at Turkish Mercantile Exchange (TMX), leveraging data to extract insights, build models, and turn complex market information into actionable products.
 ---
 
 
